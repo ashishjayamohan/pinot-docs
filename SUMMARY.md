@@ -336,6 +336,7 @@
   * [JSONPATHDOUBLE](configuration-reference/functions/jsonpathdouble.md)
   * [JSONPATHLONG](configuration-reference/functions/jsonpathlong.md)
   * [JSONPATHSTRING](configuration-reference/functions/jsonpathstring.md)
+  * [JSONPATHEXISTS](configuration-reference/functions/jsonpathstring.md)
   * [jsonextractkey](configuration-reference/functions/jsonextractkey.md)
   * [jsonextractscalar](configuration-reference/functions/jsonextractscalar.md)
   * [LAG](configuration-reference/functions/lag.md)
